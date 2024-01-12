@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /zhilaohu.icu
 ---
 
 # 狐璃
@@ -8,7 +8,7 @@ permalink: /
 >
 > 作者：[H](https://gitee.com/fox-glaze)
 >
-> 本站地址：[zhilaohu.icu)
+> 本站地址：[zhilaohu.icu])
 
 ## 本站内容
 
