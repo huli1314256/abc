@@ -1,5 +1,5 @@
 ---
-permalink: /zhilaohu.icu
+permalink: zhilaohu.icu
 ---
 
 # 狐璃
